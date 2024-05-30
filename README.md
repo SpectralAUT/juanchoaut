@@ -9,10 +9,10 @@
 
 - 🤝 I’m looking for help with **new projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/juanchoaut?tab=repositories](https://github.com/juanchoaut?tab=repositories)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/profilejuan/](https://www.linkedin.com/in/profilejuan/)
-
+- 👨‍💻 All of my projects are available here
+  
+- 📝 I regularly write articles
+   
 - 💬 Ask me about **java,nodejs**
 
 - 📄 Know about my experiences [A highly skilled QA Automation Engineer with over 5 years of experience in designing, developing, and implementing automation solutions to important clients to optimize software testing processes, improve product quality, and reduce testing time of regression tests working with automation libraries and devops tools to create ui and Api tests . Proficient in programming languages Java,Js ,groovy, bash, with expertise in Selenium.](A highly skilled QA Automation Engineer with over 5 years of experience in designing, developing, and implementing automation solutions to important clients to optimize software testing processes, improve product quality, and reduce testing time of regression tests working with automation libraries and devops tools to create ui and Api tests . Proficient in programming languages Java,Js ,groovy, bash, with expertise in Selenium.)
